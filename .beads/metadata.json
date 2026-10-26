@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "SorrellUi",
+  "project_id": "809ecb52-eaf3-48fc-a167-0f718341bb68"
+}
